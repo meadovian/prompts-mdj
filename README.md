@@ -1,4 +1,4 @@
 # prompts-mdj
 More MidJourney prompts
 
-Organized by subject / location / time / style
+Organized and named by subject / location / time / style
